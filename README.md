@@ -1,5 +1,5 @@
 # Reversi
-A group project for my Computer Architecture class. Written in MIPS (assembly) language
+A group project for my Computer Architecture class in 2017. Written in MIPS (assembly) language
 
 ## Thank you team!
 Credit is due for my group members as this was a team effort to make this project work:  
